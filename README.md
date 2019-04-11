@@ -2,13 +2,6 @@
 
 I am a web applications developer currently open to freelance projects. I did my Bachelors in Information Technology at Sunway University in Malaysia, following which I worked at a small tech firm for about 2.5 years.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
 # Header 1
 ## Header 2
 ### Header 3
