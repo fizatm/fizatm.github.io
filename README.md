@@ -1,4 +1,4 @@
-#Bio
+##Bio
 
 I am a web applications developer currently open to freelance projects. I did my Bachelors in Information Technology at Sunway University in Malaysia, following which I worked at a small tech firm for about 2.5 years.
 
