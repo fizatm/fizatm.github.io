@@ -5,8 +5,8 @@ I am a web applications developer currently open to freelance projects. I did my
 
 ## Papers
 
-- **Latest Trends in Human Activity Recognition and Behavioral Analysis using Different Types of Sensors**  
-**F. T. Mughal**  
+- **Latest Trends in Human Activity Recognition and Behavioral Analysis using Different Types of Sensors**      
+**F. T. Mughal**      
 ICIET, 2018 
 [\[pdf\]](https://fizatm.github.io/assets/trends_har_2018.pdf)
 
