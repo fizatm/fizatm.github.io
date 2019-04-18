@@ -1,15 +1,14 @@
 ## Work in progress
-## Bio
 
-I am a web applications developer currently open to freelance projects. I did my Bachelors in Information Technology at Sunway University in Malaysia, following which I worked at a small tech firm for about 2.5 years.
+## Quick Intro
+I am a web applications developer currently open to freelance projects. I got my Bachelors (Hons) in Information Technology at Sunway University in Malaysia, following which I worked at a tech firm for a few years.
 
 ## Papers
-
+### Conferences
 - **Latest Trends in Human Activity Recognition and Behavioral Analysis using Different Types of Sensors**      
 **F. T. Mughal**     
 ICIET, 2018     
 [\[pdf\]](https://fizatm.github.io/assets/trends_har_2018.pdf)
-
 
 - **Internet of Things: securing data using image steganography**       
 JHJ Yin, GM Fen, **F. T. Mughal**, V Iranmanesh         
