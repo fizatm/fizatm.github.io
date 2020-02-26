@@ -1,5 +1,5 @@
 ## Quick Intro
-I am a [Master of Science by Research](http://www.gamesstudio.org/profiles/fiza-mughal) student at the [University of Technology Sydney](https://www.uts.edu.au/). My [research](http://www.gamesstudio.org/projects/autonomous-monitoring-system-geriatric-persons) is focused on detecting depression in geriatric people using smart wearables under the supervision of  Dr. [Jaime Garcia](http://www.gamesstudio.org/profiles/jaime-garcia) and Dr. [William Raffe](http://www.gamesstudio.org/profiles/william-l-raffe).
+I am a [Master of Science by Research](http://www.gamesstudio.org/profiles/fiza-mughal) student at the [University of Technology Sydney](https://www.uts.edu.au/). My [research](http://www.gamesstudio.org/projects/autonomous-monitoring-system-geriatric-persons) is focused on detecting depression in geriatric people using smart wearables under the supervision of  [Dr. Jaime Garcia](http://www.gamesstudio.org/profiles/jaime-garcia) and [Dr. William Raffe](http://www.gamesstudio.org/profiles/william-l-raffe).
 
 I got my Bachelors (Hons) in Information Technology at [Sunway University](https://university.sunway.edu.my/) in Malaysia, following which I worked at a tech firm for a few years. During the gap between work and my post graduate studies, I worked on freelance web development and management projects.
 
