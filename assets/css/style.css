@@ -1,0 +1,9 @@
+@media screen and (max-width: 42em)
+.btn {
+    display: block;
+    width: 100%;
+    padding: 0.75rem;
+    font-size: 0.9rem;
+    color: black;
+    background-color: rgba(255,255,255,0.7);
+}
