@@ -21,10 +21,13 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
-    <header class="page-header" role="banner">
+    <header class="page-header" role="banner" style='background-image:url("assets/photo_2020-02-26%2016.58.59.jpeg");>
+                                                     
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+                                                     
         <a href="{{ site.google_scholar_url }}" class="btn">Google Scholar</a>
         <a href="{{ site.linkedin_url }}" class="btn">LinkedIn</a>
+                                                     
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
