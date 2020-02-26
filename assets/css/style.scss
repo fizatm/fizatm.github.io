@@ -3,11 +3,8 @@
 
 @import "{{ site.theme }}";
 
-@media screen and (min-width: 42em)
+.btn
 {
-    .btn
-    {
-        color: black;
-        background-color: rgba(255,255,255,0.7);
-     }
+    color: black;
+    background-color: rgba(255,255,255,0.7);
 }
